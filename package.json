@@ -1,5 +1,5 @@
 {
-  "name": "js-capstone",
+  "name": "javascript-capstone",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jicamargo/js-capstone.git"
+    "url": "git+https://github.com/Braingenius2/JavaScript-capstone-project"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jicamargo/js-capstone/issues"
+    "url": "https://github.com/Braingenius2/JavaScript-capstone-project/issues"
   },
-  "homepage": "https://github.com/jicamargo/js-capstone#readme",
+  "homepage": "https://Braingenius2.github.io/JavaScript-capstone-project",
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.21.5",
     "babel-eslint": "^10.1.0",
